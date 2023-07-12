@@ -1,1 +1,1 @@
-# cgiles7-thinkfulCupid.github.io
+Thinkful Cupid website
