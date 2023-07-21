@@ -148,8 +148,8 @@ footer p {
 
 /* -------  Media Query ------- */
 
-/* This applies from 481px and larger */
-@media all and (min-width: 481px) {
+/* This applies from 480px and larger */
+@media all and (min-width: 480px) {
   section,
   h1 {
     flex-direction: row;
