@@ -280,9 +280,11 @@ footer p {
   }
 
   #about #about2 img {
-    width: 30%;
+    width: 25%;
     align-self: center;
-    margin-right: 2px;
+    margin:auto;
+    padding-bottom: 2%;
+    padding-right: 1%
   }
 
   #about2 p {
